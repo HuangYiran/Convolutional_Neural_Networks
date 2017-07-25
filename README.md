@@ -1,1 +1,1 @@
-Notebook für die CNN Lectures von Uni Standord
+Notebook für die CNN Lectures von Uni Stanford
